@@ -1,0 +1,46 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-family: roboto;
+  align-items: center;
+  padding: 5px;
+}
+
+.history-details {
+  display: flex;
+}
+
+.time {
+  margin-left: 0px;
+  font-size: 12px;
+  align-self: center;
+  color: #475569;
+  font-weight: bold;
+}
+
+.web-logo {
+  margin-left: 45px;
+  margin-right: 20px;
+  height: 40px;
+  margin-top: 5px;
+}
+
+.title {
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.url {
+  color: #64748b;
+}
+
+.delete-icon {
+  margin-right: 30px;
+}
+
+button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
